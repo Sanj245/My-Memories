@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175790491187",
+    "project_id": "reverse-bucket-list",
+    "storage_bucket": "reverse-bucket-list.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175790491187:android:69df3d3b0cf6c9cb9d4546",
+        "android_client_info": {
+          "package_name": "com.example.reverse_bucket_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5hpw_VFLJkEir4j4V0DZweOqpzy9DXfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
